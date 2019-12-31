@@ -1,0 +1,2 @@
+file3
+second line feature 1
